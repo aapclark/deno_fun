@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "denodb": "https://deno.land/x/denodb/mod.ts",
+    "attain-graphql": "https://deno.land/x/attain_graphql/mod.ts",
+    "attain": "https://deno.land/x/attain/mod.ts"
+  }
+}
